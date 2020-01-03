@@ -15,11 +15,11 @@
         state: present
 
     - name: Insert Index Page
-      template:
+      copy:
         src: index.html
         dest: /usr/share/nginx/html/index.html
 
-    - name: Start NGiNX
+    - name: Start NGINX
       service:
         name: nginx
         state: started
