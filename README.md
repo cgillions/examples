@@ -2,13 +2,13 @@
 
 This repository contains 3 examples of Ansible projects that increase in complexity.
 
-1. [playbook_basic](/tree/master/playbook_basic)
+1. [playbook_basic](https://github.com/cgillions/examples/tree/master/playbook_basic)
    This project lists tasks in the playbook file
 
-2. [playbook_role](/tree/master/playbook_role)
+2. [playbook_role](https://github.com/cgillions/examples/tree/master/playbook_role)
    This project uses a role to encapsulate the tasks
 
-3. [playbook_role_structure](/tree/master/playbook_role_structure)
+3. [playbook_role_structure](https://github.com/cgillions/examples/tree/master/playbook_role_structure)
    This project makes use of the role directory structure for a more advanced deployment
 
 ## Ansible
